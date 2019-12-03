@@ -1,0 +1,38 @@
+{
+  "name": "BISAJELU",
+  "short_name": "BISAJELU.BLOGSPOT.COM",
+  "start_url": "https://bisajelu.blogspot.com/",
+  "display": "standalone",
+  "background_color": "#fff",
+  "theme_color": "#2B0C93",
+  "description": "Kumpulan Kata - Kata Lucu Untuk Story dan Status Media Sosial.",
+  "icons": [{
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-JHjlC6chELE/XeaLUMYsuBI/AAAAAAAADbc/tc7-Nmw-6gYJ24KFefwoAKIwULmlbMcnQCLcBGAsYHQ/s48/Letter-B-PNG-High-Quality-Image.png",
+    "sizes": "48x48",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-JHjlC6chELE/XeaLUMYsuBI/AAAAAAAADbc/tc7-Nmw-6gYJ24KFefwoAKIwULmlbMcnQCLcBGAsYHQ/s72/Letter-B-PNG-High-Quality-Image.png",
+    "sizes": "72x72",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-JHjlC6chELE/XeaLUMYsuBI/AAAAAAAADbc/tc7-Nmw-6gYJ24KFefwoAKIwULmlbMcnQCLcBGAsYHQ/s72/Letter-B-PNG-High-Quality-Image.png",
+    "sizes": "96x96",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-JHjlC6chELE/XeaLUMYsuBI/AAAAAAAADbc/tc7-Nmw-6gYJ24KFefwoAKIwULmlbMcnQCLcBGAsYHQ/s144/Letter-B-PNG-High-Quality-Image.png",
+    "sizes": "144x144",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-JHjlC6chELE/XeaLUMYsuBI/AAAAAAAADbc/tc7-Nmw-6gYJ24KFefwoAKIwULmlbMcnQCLcBGAsYHQ/s168/Letter-B-PNG-High-Quality-Image.png",
+    "sizes": "168x168",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-JHjlC6chELE/XeaLUMYsuBI/AAAAAAAADbc/tc7-Nmw-6gYJ24KFefwoAKIwULmlbMcnQCLcBGAsYHQ/s192/Letter-B-PNG-High-Quality-Image.png",
+    "sizes": "192x192",
+    "type": "image/png"
+  }, {
+    "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-JHjlC6chELE/XeaLUMYsuBI/AAAAAAAADbc/tc7-Nmw-6gYJ24KFefwoAKIwULmlbMcnQCLcBGAsYHQ/s512/Letter-B-PNG-High-Quality-Image.png",
+    "sizes": "512x512",
+    "type": "image/png"
+  }]
+}
