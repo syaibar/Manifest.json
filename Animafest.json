@@ -3,8 +3,8 @@
   "short_name": "ANIMASIPUL",
   "start_url": "https://animasipul.blogspot.com",
   "display": "standalone",
-  "background_color": "#fafafa",
-  "theme_color": "#fafafa",
+  "background_color": "#ffffff",
+  "theme_color": "#ffffff",
   "description": "Animasipul adalah channel youtube yang berisi animasi keresahan yang dialami oleh Sipul.",
   "icons": [{
     "src": "https://cdn.staticaly.com/img/1.bp.blogspot.com/-5NUApiu7Hrg/XlQCYLUJ74I/AAAAAAAAAKc/_bKZ9SNfLJQr7nHgJFaa92yQygVJ1K1fQCLcBGAsYHQ/s48/Favicon%2BSipul.png",
